@@ -1,6 +1,4 @@
-<h1>
-	GSNCA Email Signature
-</h1>
+
 <script>
 	let name = '';
   let title = '';
@@ -23,6 +21,9 @@
 }
 </style>
    <section><div>
+	   <h1>
+	GSNCA Email Signature
+</h1>
 <input bind:value={name} placeholder="enter your name"><br>
 <input bind:value={title} placeholder="enter your title"><br>
 <input bind:value={add1} placeholder="enter your address line 1"><br>
