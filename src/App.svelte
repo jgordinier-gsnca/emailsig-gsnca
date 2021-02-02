@@ -8,7 +8,7 @@
   let phone = '';
   let cell = '';
   let email = '';
-</script>
+</script><section>
 <div class="container"><div class="columns"><div class="column">
 	   <h1 class="title">
 	GSNCA Email Signature
@@ -72,6 +72,6 @@
 		</td>
 	</tr>
 	   </table>
-</div></div></div>
+	</div></div></div></section>
 
 
