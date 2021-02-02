@@ -13,14 +13,16 @@
 	   <h1 class="title">
 	GSNCA Email Signature
 </h1>
-<input class="input" bind:value={name} placeholder="enter your name"><br>
-<input class="input" bind:value={title} placeholder="enter your title"><br>
-<input class="input" bind:value={add1} placeholder="enter your address line 1"><br>
-<input class="input" bind:value={add2} placeholder="enter your address line 2"><br>
-<input class="input" bind:value={phone} placeholder="enter your phone"><br>
-<input class="input" bind:value={cell} placeholder="enter your cell"><br>
-<input class="input" bind:value={email} placeholder="enter your email">
-	<br>
+<input class="input m-1" bind:value={name} placeholder="enter your name">
+<input class="input m-1" bind:value={title} placeholder="enter your title">
+<input class="input m-1" bind:value={title} placeholder="enter your title">
+<input class="input m-1" bind:value={title} placeholder="enter your title">
+<input class="input m-1" bind:value={add1} placeholder="enter your address line 1">
+<input class="input m-1" bind:value={add2} placeholder="enter your address line 2">
+<input class="input m-1" bind:value={phone} placeholder="enter your phone">
+<input class="input m-1" bind:value={cell} placeholder="enter your cell">
+<input class="input m-1" bind:value={email} placeholder="enter your email">
+
 <table class="table" border="1" cellpadding="5px">
   <tbody>
     <tr>
