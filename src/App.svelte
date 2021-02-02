@@ -8,7 +8,7 @@
   let phone = '';
   let cell = '';
   let email = '';
-</script><section>
+</script><section class="section">
 <div class="container"><div class="columns"><div class="column">
 	   <h1 class="title">
 	GSNCA Email Signature
