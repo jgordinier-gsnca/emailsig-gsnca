@@ -13,15 +13,15 @@
 	   <h1 class="title">
 	GSNCA Email Signature
 </h1>
-<input bind:value={name} placeholder="enter your name"><br>
-<input bind:value={title} placeholder="enter your title"><br>
-<input bind:value={add1} placeholder="enter your address line 1"><br>
-<input bind:value={add2} placeholder="enter your address line 2"><br>
-<input bind:value={phone} placeholder="enter your phone"><br>
-<input bind:value={cell} placeholder="enter your cell"><br>
-<input bind:value={email} placeholder="enter your email">
+<input class="input" bind:value={name} placeholder="enter your name"><br>
+<input class="input" bind:value={title} placeholder="enter your title"><br>
+<input class="input" bind:value={add1} placeholder="enter your address line 1"><br>
+<input class="input" bind:value={add2} placeholder="enter your address line 2"><br>
+<input class="input" bind:value={phone} placeholder="enter your phone"><br>
+<input class="input" bind:value={cell} placeholder="enter your cell"><br>
+<input class="input" bind:value={email} placeholder="enter your email">
 	<br>
-<table class="table" border="0" cellpadding="5px">
+<table class="table" border="1" cellpadding="5px">
   <tbody>
     <tr>
       <td><p>105 Heatherbrooke Park Drive<br>Birmingham, AL 35242</p></td>
@@ -34,7 +34,7 @@
 <p><em>
 	Select Signature then Copy and Paste into your signature. Keep source formatting.</em>
 </p>
-<table class="table">
+<table>
 	<tr>
 		<td><img height="48" src="http://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/email/image002.png" width="103"> <span style="font-family: arial; font-size:12px"><br>
 		<strong>{name}</strong></span><br>
