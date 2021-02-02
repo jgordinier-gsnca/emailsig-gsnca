@@ -43,20 +43,20 @@
 </p>
 <table>
 	<tr>
-		<td><img height="48" src="http://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/email/image002.png" width="103"> <span style="font-family: arial; font-size:12px"><br>
+		<td><img height="48" src="https://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/email/image002.png" width="103"> <span style="font-family: arial; font-size:12px"><br>
 		<strong>{name}</strong></span><br>
 		<span style="font-family: arial; font-size:12px">{title}</span><br>
 		<span style="font-family: arial; font-size:12px"><span style="color:#00ae58"><strong>Girl Scouts of North&#8211;Central Alabama</strong></span><br>
 		<span style="font-family: arial; font-size:12px">{add1}</span><br>
 		<span style="font-family: arial; font-size:12px">{add2}</span><br>
 		<span style="font-family: arial; font-size:12px">800-734-4541</span></span></td>
-	</tr><!--<tr><td><img src="http://placehold.it/150x5"></td></tr>-->
+	</tr><!--<tr><td><img src="https://placehold.it/150x5"></td></tr>-->
 	<tr>
 		<td><span style="font-family: arial; font-size:12px"><strong>p:</strong> {phone}</span><br>
 		<span style="font-family: arial; font-size:12px"><strong>c:</strong> {cell}</span> <br><span style="font-family: arial; font-size:12px"><a href="mailto:[[EMAIL]]" style="color:#00AE58; border-width:0px; border:0px;">{email}</a></span></td>
 	</tr>
 	<tr>
-		<td><span><a href="https://www.girlscouts.org/en/cookies/share-joy.html"><img border="0" height="169" src="http://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/email/cookie_pattern_3.jpg" width="300"></a></span></td>
+		<td><span><a href="https://www.girlscouts.org/en/cookies/share-joy.html"><img border="0" height="169" src="https://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/email/cookie_pattern_3.jpg" width="300"></a></span></td>
 	</tr>
 	<tr>
 		<td><span style="font-family: arial; font-size:12px"><span style="color:#00ae58"><strong>Virtual Programs with Girl Scouts at Home</strong></span><br>
@@ -68,10 +68,9 @@
 	</tr>
 	<tr>
 		<td>
-			<a href="http://girlscoutsnca.org" style="text-decoration:none !important; text-decoration:none"><img border="0" height="27" src="http://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/email/image006.png" width="28"></a> <a href="https://www.facebook.com/gsnca" style="text-decoration:none !important; text-decoration:none"><img border="0" height="30" src="http://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/email/image008.png" width="16"></a> <a href="https://twitter.com/girlscoutsnca" style="text-decoration:none !important; text-decoration:none"><img border="0" height="32" src="http://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/email/image010.png" width="25"></a> <a href="https://www.youtube.com/user/gsnca" style="text-decoration:none !important; text-decoration:none"><img border="0" height="29" src="http://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/email/image012.png" width="22"></a> <a href="https://www.instagram.com/girlscoutsnca" style="text-decoration:none !important; text-decoration:none"><img border="0" height="28" src="http://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/email/image016.png" width="22"></a> <a href="https://www.pinterest.com/gsnca/" style="text-decoration:none !important; text-decoration:none"><img border="0" height="31" src="http://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/email/image020.png" width="25"></a>
+			<a href="https://girlscoutsnca.org" style="text-decoration:none !important; text-decoration:none"><img border="0" height="27" src="https://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/email/image006.png" width="28"></a> <a href="https://www.facebook.com/gsnca" style="text-decoration:none !important; text-decoration:none"><img border="0" height="30" src="https://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/email/image008.png" width="16"></a> <a href="https://twitter.com/girlscoutsnca" style="text-decoration:none !important; text-decoration:none"><img border="0" height="32" src="https://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/email/image010.png" width="25"></a> <a href="https://www.youtube.com/user/gsnca" style="text-decoration:none !important; text-decoration:none"><img border="0" height="29" src="https://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/email/image012.png" width="22"></a> <a href="https://www.instagram.com/girlscoutsnca" style="text-decoration:none !important; text-decoration:none"><img border="0" height="28" src="https://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/email/image016.png" width="22"></a> <a href="https://www.pinterest.com/gsnca/" style="text-decoration:none !important; text-decoration:none"><img border="0" height="31" src="https://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/email/image020.png" width="25"></a>
 		</td>
 	</tr>
 	   </table>
 	</div></div></div></section>
-
 
