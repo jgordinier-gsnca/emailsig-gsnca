@@ -68,7 +68,6 @@
 			<a href="http://girlscoutsnca.org" style="text-decoration:none !important; text-decoration:none"><img border="0" height="27" src="http://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/email/image006.png" width="28"></a> <a href="https://www.facebook.com/gsnca" style="text-decoration:none !important; text-decoration:none"><img border="0" height="30" src="http://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/email/image008.png" width="16"></a> <a href="https://twitter.com/girlscoutsnca" style="text-decoration:none !important; text-decoration:none"><img border="0" height="32" src="http://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/email/image010.png" width="25"></a> <a href="https://www.youtube.com/user/gsnca" style="text-decoration:none !important; text-decoration:none"><img border="0" height="29" src="http://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/email/image012.png" width="22"></a> <a href="https://www.instagram.com/girlscoutsnca" style="text-decoration:none !important; text-decoration:none"><img border="0" height="28" src="http://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/email/image016.png" width="22"></a> <a href="https://www.pinterest.com/gsnca/" style="text-decoration:none !important; text-decoration:none"><img border="0" height="31" src="http://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/email/image020.png" width="25"></a>
 		</td>
 	</tr>
-	   </table></div>
-	</section>
+	   </table>
 
 
