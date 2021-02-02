@@ -9,7 +9,7 @@
   let cell = '';
   let email = '';
 </script>
-<div class="container">
+<div class="container"><div class="columns"><div class="column">
 	   <h1 class="title">
 	GSNCA Email Signature
 </h1>
@@ -72,6 +72,6 @@
 		</td>
 	</tr>
 	   </table>
-</div>
+</div></div></div>
 
 
