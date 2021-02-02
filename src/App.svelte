@@ -10,7 +10,15 @@
   let cell = '';
   let email = '';
 </script>
-   
+<style>
+	section {
+  width: 600px;
+  border: 1px solid #2d2d2d;
+  display: grid;
+  justify-content: center;
+}
+</style>
+   <section>
 <input bind:value={name} placeholder="enter your name"><br>
 <input bind:value={title} placeholder="enter your title"><br>
 <input bind:value={add1} placeholder="enter your address line 1"><br>
@@ -62,5 +70,6 @@
 		</td>
 	</tr>
 </table>
+	</section>
 
 
