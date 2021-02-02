@@ -10,7 +10,7 @@
   let email = '';
 </script>
 <div class="container">
-	   <h1>
+	   <h1 class="title">
 	GSNCA Email Signature
 </h1>
 <input bind:value={name} placeholder="enter your name"><br>
