@@ -20,7 +20,8 @@
 <input bind:value={phone} placeholder="enter your phone"><br>
 <input bind:value={cell} placeholder="enter your cell"><br>
 <input bind:value={email} placeholder="enter your email">
-<table border="0" cellpadding="5px">
+	<br>
+<table class="table" border="0" cellpadding="5px">
   <tbody>
     <tr>
       <td><p>105 Heatherbrooke Park Drive<br>Birmingham, AL 35242</p></td>
@@ -29,11 +30,11 @@
     </tr>
   </tbody>
 </table>
-<br><br>
+<br>
 <p><em>
 	Select Signature then Copy and Paste into your signature. Keep source formatting.</em>
 </p>
-<table>
+<table class="table">
 	<tr>
 		<td><img height="48" src="http://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/email/image002.png" width="103"> <span style="font-family: arial; font-size:12px"><br>
 		<strong>{name}</strong></span><br>
