@@ -1,6 +1,5 @@
-	   <h1>
-	GSNCA Email Signature
-</h1>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
 <script>
 	let name = '';
   let title = '';
@@ -10,14 +9,10 @@
   let cell = '';
   let email = '';
 </script>
-<style>
-	section {
-  width: 600px;
-  display: grid;
-  justify-content: center;
-}
-</style>
-
+<div class="container">
+	   <h1>
+	GSNCA Email Signature
+</h1>
 <input bind:value={name} placeholder="enter your name"><br>
 <input bind:value={title} placeholder="enter your title"><br>
 <input bind:value={add1} placeholder="enter your address line 1"><br>
@@ -69,5 +64,6 @@
 		</td>
 	</tr>
 	   </table>
+</div>
 
 
