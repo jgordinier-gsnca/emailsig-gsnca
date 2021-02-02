@@ -18,7 +18,16 @@
 <input bind:value={phone} placeholder="enter your phone"><br>
 <input bind:value={cell} placeholder="enter your cell"><br>
 <input bind:value={email} placeholder="enter your email">
-
+<table border="0" cellpadding="5px">
+  <tbody>
+    <tr>
+      <td><p>105 Heatherbrooke Park Drive<br>Birmingham, AL 35242</p></td>
+      <td><p>1515 Sparkman Drive NW<br>Huntsville, AL 35816</p></td>
+      <td><p>2121 9th Street, Suite C<br>Tuscaloosa, AL 35401</p></td>
+    </tr>
+  </tbody>
+</table>
+<br><br>
 <p><em>
 	Select Signature then Copy and Paste into your signature. Keep source formatting.</em>
 </p>
