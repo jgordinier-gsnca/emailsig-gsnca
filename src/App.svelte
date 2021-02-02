@@ -13,6 +13,7 @@
   width: 600px;
   display: grid;
   justify-content: center;
+text-align:center;
 }
 	div {
   color: #fff;
