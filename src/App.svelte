@@ -17,9 +17,9 @@
 <input class="input m-1" bind:value={name} placeholder="enter your name">
 		<label class="label">Title</label>
 <input class="input m-1" bind:value={title} placeholder="enter your title">
-			<label class="label">Address line 1</label>
+			<label class="label">Address line 1 (see addresses below)</label>
 <input class="input m-1" bind:value={add1} placeholder="enter your address line 1">
-				<label class="label">Address line 2</label>
+				<label class="label">City, State Zip</label>
 <input class="input m-1" bind:value={add2} placeholder="enter your address line 2">
 				<label class="label">Phone</label>
 <input class="input m-1" bind:value={phone} placeholder="enter your phone">
