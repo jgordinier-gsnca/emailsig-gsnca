@@ -22,7 +22,7 @@
 				<label class="label">City, State Zip</label>
 <input class="input m-1" bind:value={add2} placeholder="City, State Zip">
 				<label class="label">Phone</label>
-<input class="input m-1" bind:value={phone} placeholder="enter your phone">
+<input class="input m-1" bind:value={phone} placeholder="enter your direct line">
 					<label class="label">Cell</label>
 <input class="input m-1" bind:value={cell} placeholder="enter your cell">
 					<label class="label">Email</label>
