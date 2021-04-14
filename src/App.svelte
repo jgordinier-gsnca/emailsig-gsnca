@@ -43,14 +43,14 @@
 </p>
 <table>
 		<tr>
-		<td><span><a href="https://www.girlscoutsnca.org"><img border="0" width="200" height="97" src="https://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/logo/GSNCA-logo_email_s.png"></a>		
+		<td><a href="https://www.girlscoutsnca.org"><img border="0" width="200" height="97" src="https://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/logo/GSNCA-logo_email_s.png"></a>		
 			<br>
-		<strong>{name}</strong></span><br>
+		<span style="font-family: arial; font-size:12px"><strong>{name}</strong></span><br>
 		<span style="font-family: arial; font-size:12px">{title}</span><br>
 		<span style="font-family: arial; font-size:12px"><span style="color:#00ae58"><strong>Girl Scouts of North&#8211;Central Alabama</strong></span><br>
 		<span style="font-family: arial; font-size:12px">{add1}</span><br>
 		<span style="font-family: arial; font-size:12px">{add2}</span><br>
-		<span style="font-family: arial; font-size:12px">800-734-4541</span></span></td>
+		<span style="font-family: arial; font-size:12px">800-734-4541</span></td>
 	</tr><!--<tr><td><img src="https://placehold.it/150x5"></td></tr>-->
 	<tr>
 		<td><span style="font-family: arial; font-size:12px"><strong>p:</strong> {phone}</span><br>
