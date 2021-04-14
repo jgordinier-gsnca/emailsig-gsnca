@@ -44,7 +44,7 @@
 <table>
 		<tr>
 		<td><a href="https://www.girlscoutsnca.org"><img border="0" width="175" height="85" src="https://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/logo/GSNCA-logo_email_s.png"></a>		
-			<br>
+			<br><br>
 		<span style="font-family: arial; font-size:12px"><strong>{name}</strong></span><br>
 		<span style="font-family: arial; font-size:12px">{title}</span><br>
 		<span style="font-family: arial; font-size:12px"><span style="color:#00ae58"><strong>Girl Scouts of North&#8211;Central Alabama</strong></span><br>
@@ -55,7 +55,7 @@
 	<tr>
 		<td><span style="font-family: arial; font-size:12px"><strong>p:</strong> {phone}</span><br>
 		<span style="font-family: arial; font-size:12px"><strong>c:</strong> {cell}</span> <br><span style="font-family: arial; font-size:12px"><a href="mailto:{email}" style="color:#00AE58; border-width:0px; border:0px;">{email}</a></span></td>
-	</tr>
+	</tr><br>
 	<tr>
 		<td><span style="font-family: arial; font-size:12px"><span style="color:#00ae58"><strong>Renew with Girl Scouts</strong></span><br>
 		<span style="font-family: arial; font-size:12px"><a href="https://mygs.girlscouts.org/" style="text-decoration:none !important; text-decoration:none">Click here to learn more!</a></span></span></td>
