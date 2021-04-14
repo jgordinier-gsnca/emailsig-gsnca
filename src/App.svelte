@@ -57,11 +57,11 @@
 		<span style="font-family: arial; font-size:12px"><strong>c:</strong> {cell}</span> <br><span style="font-family: arial; font-size:12px"><a href="mailto:{email}" style="color:#00AE58; border-width:0px; border:0px;">{email}</a></span></td>
 	</tr><tr class="spacer"></tr>
 	<tr>
-		<td><span style="font-family: arial; font-size:12px"><span style="color:#00ae58"><strong>Renew with Girl Scouts</strong></span><br>
+		<td><span style="font-family: arial; font-size:12px"><span><strong>Renew with Girl Scouts</strong></span><br>
 		<span style="font-family: arial; font-size:12px"><a href="https://mygs.girlscouts.org/" style="text-decoration:none !important; text-decoration:none">Click here to learn more!</a></span></span></td>
 	</tr>
 	<tr>
-		<td><span style="font-family: arial; font-size:12px"><span style="color:#00ae58"><strong>Join Girl Scouts</strong></span><br>
+		<td><span style="font-family: arial; font-size:12px"><span><strong>Join Girl Scouts</strong></span><br>
 		<span style="font-family: arial; font-size:12px"><a href="https://www.girlscoutsnca.org/en/about-girl-scouts/join.html" style="text-decoration:none !important; text-decoration:none">Click here to Join today!</a></span></span></td>
 	</tr>
 	<tr>
