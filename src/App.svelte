@@ -56,7 +56,7 @@
 		<span style="font-family: arial; font-size:12px"><strong>c:</strong> {cell}</span> <br><span style="font-family: arial; font-size:12px"><a href="mailto:[[EMAIL]]" style="color:#00AE58; border-width:0px; border:0px;">{email}</a></span></td>
 	</tr>
 	<tr>
-		<td><span><a href="https://www.girlscouts.org"><img border="0" width="200" height="97" src="https://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/logo/GSNCA-logo_email.png"></a></span></td>
+		<td><span><a href="https://www.girlscouts.org"><img border="0" width="200" height="97" src="https://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/logo/GSNCA-logo_email_s.png"></a></span></td>
 	</tr>
 	<tr>
 		<td><span style="font-family: arial; font-size:12px"><span style="color:#00ae58"><strong>Renew with Girl Scouts today!</strong></span><br>
