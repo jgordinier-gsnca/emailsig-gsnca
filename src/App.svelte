@@ -43,7 +43,7 @@
 </p>
 <table>
 		<tr>
-		<td><span><a href="https://www.girlscoutsnca.org"><img border="0" width="200" height="97" src="https://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/logo/GSNCA-logo_email_s.png"></a></span>		
+		<td><span><a href="https://www.girlscoutsnca.org"><img border="0" width="200" height="97" src="https://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/logo/GSNCA-logo_email_s.png"></a>		
 			<br>
 		<strong>{name}</strong></span><br>
 		<span style="font-family: arial; font-size:12px">{title}</span><br>
