@@ -51,10 +51,10 @@
 		<span style="font-family: arial; font-size:12px">{add1}</span><br>
 		<span style="font-family: arial; font-size:12px">{add2}</span><br>
 		<span style="font-family: arial; font-size:12px">800-734-4541</span></td>
-	</tr><!--<tr><td><img src="https://placehold.it/150x5"></td></tr>-->
+	</tr>
 	<tr>
 		<td><span style="font-family: arial; font-size:12px"><strong>p:</strong> {phone}</span><br>
-		<span style="font-family: arial; font-size:12px"><strong>c:</strong> {cell}</span> <br><span style="font-family: arial; font-size:12px"><a href="mailto:[[EMAIL]]" style="color:#00AE58; border-width:0px; border:0px;">{email}</a></span></td>
+		<span style="font-family: arial; font-size:12px"><strong>c:</strong> {cell}</span> <br><span style="font-family: arial; font-size:12px"><a href="mailto:{email}" style="color:#00AE58; border-width:0px; border:0px;">{email}</a></span></td>
 	</tr>
 	<tr>
 		<td><span style="font-family: arial; font-size:12px"><span style="color:#00ae58"><strong>Renew with Girl Scouts</strong></span><br>
