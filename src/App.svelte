@@ -59,7 +59,7 @@
 		<td><span><a href="https://www.girlscouts.org"><img border="0" width="200" height="97" src="https://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/logo/GSNCA-logo_email_s.png"></a></span></td>
 	</tr>
 	<tr>
-		<td><span style="font-family: arial; font-size:12px"><span style="color:#00ae58"><strong>Renew with Girl Scouts today!</strong></span><br>
+		<td><span style="font-family: arial; font-size:12px"><span style="color:#00ae58"><strong>Renew with Girl Scouts</strong></span><br>
 		<span style="font-family: arial; font-size:12px"><a href="https://mygs.girlscouts.org/" style="text-decoration:none !important; text-decoration:none">Click here to learn more!</a></span></span></td>
 	</tr>
 	<tr>
