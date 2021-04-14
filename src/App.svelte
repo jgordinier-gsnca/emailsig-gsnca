@@ -42,8 +42,9 @@
 	Select Signature then Copy and Paste into your signature. Keep source formatting.</em>
 </p>
 <table>
-	<tr>
-		<td><img height="48" src="https://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/email/image002.png" width="103"> <span style="font-family: arial; font-size:12px"><br>
+		<tr>
+		<td><span><a href="https://www.girlscoutsnca.org"><img border="0" width="200" height="97" src="https://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/logo/GSNCA-logo_email_s.png"></a></span>		
+			<br>
 		<strong>{name}</strong></span><br>
 		<span style="font-family: arial; font-size:12px">{title}</span><br>
 		<span style="font-family: arial; font-size:12px"><span style="color:#00ae58"><strong>Girl Scouts of North&#8211;Central Alabama</strong></span><br>
@@ -54,9 +55,6 @@
 	<tr>
 		<td><span style="font-family: arial; font-size:12px"><strong>p:</strong> {phone}</span><br>
 		<span style="font-family: arial; font-size:12px"><strong>c:</strong> {cell}</span> <br><span style="font-family: arial; font-size:12px"><a href="mailto:[[EMAIL]]" style="color:#00AE58; border-width:0px; border:0px;">{email}</a></span></td>
-	</tr>
-	<tr>
-		<td><span><a href="https://www.girlscouts.org"><img border="0" width="200" height="97" src="https://www.girlscoutsnca.org/content/dam/girlscouts-girlscoutsnca/images/logo/GSNCA-logo_email_s.png"></a></span></td>
 	</tr>
 	<tr>
 		<td><span style="font-family: arial; font-size:12px"><span style="color:#00ae58"><strong>Renew with Girl Scouts</strong></span><br>
